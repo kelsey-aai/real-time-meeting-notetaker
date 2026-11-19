@@ -1,0 +1,4 @@
+assemblyai>=1.10.11
+python-dotenv>=1.0
+# Optional, only for --mic (needs PortAudio: `brew install portaudio` on macOS)
+# pyaudio>=0.2.14
