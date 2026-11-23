@@ -4,7 +4,7 @@ A live meeting notetaker in a few hundred lines of Python. While the meeting run
 
 There's no second, post-call transcription job. Speaker labels on AssemblyAI-STT-3.7-Realtime are final when each turn ends, so the live transcript is the one the notes are built from.
 
-Companion code for the AssemblyAI blog post *Live speaker labels for AI notetakers: why you can stop batching meeting audio*.
+Companion code for the AssemblyAI blog post [Real-time meeting transcription with live speaker labels: how to drop the batch pass](https://www.assemblyai.com/blog/real-time-meeting-transcription-live-speaker-labels).
 
 ## What it does
 
